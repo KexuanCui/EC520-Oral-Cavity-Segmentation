@@ -5,7 +5,6 @@ We developed a supervised learning algorithm in building 2-class classifier for 
 
 ## Developers
 Kexuan Cui
-
 Yaan Ge
 
 ## Summary
