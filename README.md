@@ -1,8 +1,11 @@
 # EC520 Course Project - Oral Cavity Segmentation
-EC520 Course Project
-We developed a supervised learning algorithm in building 2-class classifier for segmenting tissue areaout from oral cavity photo, which was based on the idea of binary hypothesis test.
+This is a course project of Boston University course EC520 - Digital Image Processing and Communication
+
+We developed a supervised learning algorithm in building 2-class classifier for segmenting tissue area out from oral cavity photo, which was based on the idea of binary hypothesis test.
+
 ## Developers
 Kexuan Cui
+
 Yaan Ge
 
 ## Summary
